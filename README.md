@@ -18,4 +18,5 @@ This prorgam gives the following from an article in the excell Document,
       python Article_scrape_and_save_in_excel.py "url"
       
 #NOTE
+
 If you are running the program for the first time, run pip install -r requirement.txt  file before executing the program, it will install all the necessary modules.
