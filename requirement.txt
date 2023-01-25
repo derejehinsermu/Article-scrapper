@@ -1,0 +1,6 @@
+pip install bs4
+pip install newspaper
+pip install requests
+pip install xlsxwriter
+
+
